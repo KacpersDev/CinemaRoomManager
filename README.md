@@ -27,7 +27,7 @@
 
 ## About The Project
 
-A project which, aims to elevate the cinema-going experience for both their administrators.
+A project which, aims to elevate the cinema-going experience for their administrators.
 
 
 Todo:
