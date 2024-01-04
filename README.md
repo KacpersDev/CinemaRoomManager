@@ -12,7 +12,8 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/KacpersDev/CinemaRoomManager?color=dark-green) ![License](https://img.shields.io/github/license/KacpersDev/CinemaRoomManager) 
+![Contributors](https://img.shields.io/github/contributors/KacpersDev/CinemaRoomManager?color=dark-green) 
+![License](https://img.shields.io/github/license/KacpersDev/CinemaRoomManager) 
 
 ## Table Of Contents
 
